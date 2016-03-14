@@ -13,6 +13,9 @@ Anaconda: [https://www.continuum.io/downloads](https://www.continuum.io/download
 _Use the Python 2.7 version!_
 
 NumPy documentation: [http://docs.scipy.org/doc/numpy/reference/](http://docs.scipy.org/doc/numpy/reference/)
+
 SciKit-Learn documentation [http://scikit-learn.org/stable/documentation.html](http://scikit-learn.org/stable/documentation.html)
+
 Pandas documentation: [http://pandas.pydata.org/](http://pandas.pydata.org/)
+
 Matplotlib tutorials and documentation: [http://matplotlib.org/devdocs/resources/index.html](http://matplotlib.org/devdocs/resources/index.html) 
