@@ -9,3 +9,5 @@ There is nothing to hand in for this assignment. Look through the notebook and m
 ### Useful links
 
 Anaconda: [https://www.continuum.io/downloads](https://www.continuum.io/downloads)
+
+*I would recommend the Python 2.7 version*
