@@ -20,6 +20,8 @@ Pandas documentation: [http://pandas.pydata.org/](http://pandas.pydata.org/)
 
 Matplotlib tutorials and documentation: [http://matplotlib.org/devdocs/resources/index.html](http://matplotlib.org/devdocs/resources/index.html) 
 
+Gallery of interesting Jupyter notebooks: [https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) 
+
 ## Week 2 
 
 To appear.
