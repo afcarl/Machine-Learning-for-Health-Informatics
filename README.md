@@ -19,3 +19,7 @@ SciKit-Learn documentation [http://scikit-learn.org/stable/documentation.html](h
 Pandas documentation: [http://pandas.pydata.org/](http://pandas.pydata.org/)
 
 Matplotlib tutorials and documentation: [http://matplotlib.org/devdocs/resources/index.html](http://matplotlib.org/devdocs/resources/index.html) 
+
+## Week 2 
+
+To appear.
