@@ -10,4 +10,9 @@ There is nothing to hand in for this assignment. Look through the notebook and m
 
 Anaconda: [https://www.continuum.io/downloads](https://www.continuum.io/downloads)
 
-*I would recommend the Python 2.7 version*
+_Use the Python 2.7 version!_
+
+NumPy documentation: [http://docs.scipy.org/doc/numpy/reference/](http://docs.scipy.org/doc/numpy/reference/)
+SciKit-Learn documentation [http://scikit-learn.org/stable/documentation.html](http://scikit-learn.org/stable/documentation.html)
+Pandas documentation: [http://pandas.pydata.org/](http://pandas.pydata.org/)
+Matplotlib tutorials and documentation: [http://matplotlib.org/devdocs/resources/index.html](http://matplotlib.org/devdocs/resources/index.html) 
