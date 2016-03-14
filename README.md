@@ -10,7 +10,7 @@ There is nothing to hand in for this assignment. Look through the notebook and m
 
 Anaconda: [https://www.continuum.io/downloads](https://www.continuum.io/downloads)
 
-_Use the Python 2.7 version!_
+__Use the Python 2.7 version!__
 
 NumPy documentation: [http://docs.scipy.org/doc/numpy/reference/](http://docs.scipy.org/doc/numpy/reference/)
 
