@@ -22,6 +22,8 @@ Matplotlib tutorials and documentation: [http://matplotlib.org/devdocs/resources
 
 Gallery of interesting Jupyter notebooks: [https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) 
 
+Good selection of Jupyter Notebooks: [http://nb.bianp.net/sort/views/](http://nb.bianp.net/sort/views/)
+
 ## Week 2 
 
 To appear.
