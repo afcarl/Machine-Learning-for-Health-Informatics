@@ -28,7 +28,7 @@ Good selection of Jupyter Notebooks: [http://nb.bianp.net/sort/views/](http://nb
 
 Assignment 2 is now available under [`Assignment2.ipynb`] (https://github.com/mdbloice/Machine-Learning-for-Health-Informatics/blob/master/Assignment2.ipynb). 
 
-The task in this assignment is to replicate a high-dimensional gene expression analysis performed by Ramaswamy et al. in the following paper:
+The task in this assignment is to replicate a high-dimensional gene expression dataset analysis performed by Ramaswamy et al. in the following paper:
 
 S. Ramaswamy, P.  Tamayo,  R. Rifkin, S. Mukherjee, C.H. Yeang, M. Angelo, C. Ladd, M. Reich, E. Latulippe, J.P. Mesirov, T. Poggio, W. Gerald, M. Loda, E.S. Lander and T.R. Golub. __Multiclass cancer diagnosis using tumor gene expression signatures__. _PNAS, Proceedings of the National Academy of Sciences_. 2001 Dec 18; 98(26): 15149–15154.
 
