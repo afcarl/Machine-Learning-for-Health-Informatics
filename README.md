@@ -1,5 +1,5 @@
 # Machine Learning for Health Informatics
-Jupyter notebook assignments for LV 185.A83 _Machine Learning for Health Informatics_ at TU Vienna.
+Jupyter notebook assignments for the _Machine Learning for Health Informatics_ course (LV 185.A83) at Vienna University of Technology.
 
 ## Assignment 2 
 
