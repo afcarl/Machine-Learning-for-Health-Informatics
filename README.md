@@ -13,6 +13,8 @@ The group performed both clustering and classification techniques on a 14 cancer
 
 ## Assignment 1 (16th of March 2016)—Introduction Lecture
 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/mdbloice/Machine-Learning-for-Health-Informatics)
+
 You can find the introductory notebook under [`Assignment1.ipynb`] (https://github.com/mdbloice/Machine-Learning-for-Health-Informatics/blob/master/Assignment1.ipynb). 
 There is nothing to hand in for this assignment. Look through the notebook and make sure you can run this on your local machine and that you have all the libraries installed that you require to run the notebook. 
 
