@@ -1,4 +1,7 @@
 # Machine Learning for Health Informatics
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/mdbloice/Machine-Learning-for-Health-Informatics)
+
 Jupyter notebook assignments for the _Machine Learning for Health Informatics_ course (LV 185.A83) at Vienna University of Technology.
 
 ## Assignment 2 
@@ -12,8 +15,6 @@ S. Ramaswamy, P.  Tamayo,  R. Rifkin, S. Mukherjee, C.H. Yeang, M. Angelo, C. La
 The group performed both clustering and classification techniques on a 14 cancer gene expression dataset. The dataset is _high dimensional_, as the number of features (_p_=16,603 genes) far outweighs the number of observations (_N_=144 human tumour samples in the training set), hence it falls in to the category of _p_ ≫ _N_ problems. The study is also described in _Elements of Statistical Learning_ (Hastie, Tibsirani, and Friedman, 2009) in chapters 13 and 18. See the [`Assignment2.ipynb`] (https://github.com/mdbloice/Machine-Learning-for-Health-Informatics/blob/master/Assignment2.ipynb) notebook for full details.
 
 ## Assignment 1 (16th of March 2016)—Introduction Lecture
-
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/mdbloice/Machine-Learning-for-Health-Informatics)
 
 You can find the introductory notebook under [`Assignment1.ipynb`] (https://github.com/mdbloice/Machine-Learning-for-Health-Informatics/blob/master/Assignment1.ipynb). 
 There is nothing to hand in for this assignment. Look through the notebook and make sure you can run this on your local machine and that you have all the libraries installed that you require to run the notebook. 
