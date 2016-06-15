@@ -4,6 +4,8 @@
 
 Jupyter notebook assignments for the _Machine Learning for Health Informatics_ course (LV 185.A83) at Vienna University of Technology.
 
+Note: the final assignment is available on another GitHub repository, available here: <https://github.com/cassinius/mlhi-ass2-anonymization>. 
+
 ## Assignment 2 
 
 Assignment 2 is now available under [`Assignment2.ipynb`] (https://github.com/mdbloice/Machine-Learning-for-Health-Informatics/blob/master/Assignment2.ipynb). 
