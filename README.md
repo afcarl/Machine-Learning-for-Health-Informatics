@@ -10,7 +10,7 @@ The final assignment is available on another GitHub repository, see here: <https
 
 ## Assignment 2 
 
-Assignment 2 is now available under [Assignment2.ipynb](https://github.com/mdbloice/Machine-Learning-for-Health-Informatics/blob/master/Assignment2.ipynb). 
+Assignment 2 is now available under [`Assignment2.ipynb`](https://github.com/mdbloice/Machine-Learning-for-Health-Informatics/blob/master/Assignment2.ipynb). 
 
 The task in this assignment is to replicate a high-dimensional gene expression dataset analysis performed by Ramaswamy et al. in the following paper:
 
